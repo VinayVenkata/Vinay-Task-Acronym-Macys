@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>VinayTaskAcronym.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F2D7AEF71C6B2C6D000F3C6B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F2D7AF101C6B2C6E000F3C6B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F2D7AF1B1C6B2C6E000F3C6B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
